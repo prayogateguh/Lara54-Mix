@@ -17,7 +17,7 @@ Ini adalah repository untuk initial project Laravel 5.4 untuk bisa menggunakan L
 - NPM 5.6.0
 
 ## Cara Menggunakan
-Untuk menggunakan project ini, silakan clone repo ini, silakan lakukan beberapa hal berikut:
+Untuk menggunakan project ini, silakan lakukan beberapa hal berikut:
 * `git clone https://github.com/prayogateguh/Lara54-Mix.git blog`
 * `cd blog/`
 * `composer install`
