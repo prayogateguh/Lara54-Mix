@@ -8,9 +8,9 @@
 </p>
 
 ## Mengenai Lara54-Mix
-Ini adalah repository untuk initial project Laravel 5.4 untuk bisa menggunakan Laravel-Mix di Windows dengan Homestead. Berikut adalah versi software penting yang digunakan:
+Ini adalah repository untuk initial project Laravel 5.4 untuk bisa menggunakan Laravel-Mix di Windows dengan Homestead. Berikut adalah versi software yang digunakan yang sukses untuk menjalankan project ini:
 
-- Homestead
+- Homestead (Vagrant Ubuntu 16.04 - 64 bit)
 - Windows 10 (Student Edition)
 - Laravel 5.4
 - Node v8.9.4
@@ -18,7 +18,7 @@ Ini adalah repository untuk initial project Laravel 5.4 untuk bisa menggunakan L
 
 ## Kontribusi
 
-Silakan lakukan fork atau buat issue jika ada masalah. [teguh](https://teguh.me).
+Silakan lakukan fork atau buat issue jika ada masalah, atau silakan kunjungi website [teguh](https://teguh.me).
 
 ## Kontak
 
